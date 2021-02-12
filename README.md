@@ -1,6 +1,4 @@
-# datasets
-
-Set de datos - Bioestadística
+# Bioestadística - Set de datos
 
 En este repositorio se hacen disponibles todos los sets de datos usados para el desarrollo de las guías "Bioestadística para biotecnólogos".
 
